@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevAs007&show_icons=true&theme=bear)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevAs&theme=bear&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevAs007&theme=bear&layout=compact)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevAs&theme=bear&layout=compact)
 
